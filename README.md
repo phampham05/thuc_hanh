@@ -28,7 +28,7 @@
 ### 1. Clone và Cài đặt thư viện
 Chạy các lệnh sau trong terminal:
 ```bash
-git clone [https://github.com/phampham05/thuc_hanh.git](https://github.com/phampham05/thuc_hanh.git)
+git clone [https://github.com/phampham05/thuc_hanh.git]
 cd thuc_hanh
 composer install
 cp .env.example .env
