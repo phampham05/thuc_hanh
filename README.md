@@ -35,4 +35,3 @@ Sau khi đăng nhập:
 ### 1. Clone repository
 ```bash
 git clone https://github.com/phampham05/thuc_hanh.git
-cd thuc_hanh
