@@ -23,6 +23,11 @@
 
 ---
 
+##Video Demo:
+https://drive.google.com/file/d/1fBx-DKpFAsF7V9b_33p_s7BBcJtkN3qL/view?usp=sharing
+
+---
+
 ## Cài đặt project
 
 ### 1. Clone và Cài đặt thư viện
@@ -77,7 +82,4 @@ Chức năng chính
 [x] Tự động lưu/tạo User vào database
 [x] Hiển thị thông tin cá nhân
 [x] Đăng xuất hệ thống
-
-Video Demo:
-https://drive.google.com/file/d/1fBx-DKpFAsF7V9b_33p_s7BBcJtkN3qL/view?usp=sharing
 
